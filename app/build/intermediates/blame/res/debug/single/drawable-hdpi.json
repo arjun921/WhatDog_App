@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    }
+]
