@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/src/main/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/arjuns/Working_Directory/whatdog/tensorflow-classifier-android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
